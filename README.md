@@ -1,47 +1,76 @@
 # Hi, I'm Pranav Patil 👋
 
-### Aspiring AI/ML Engineer | Python Backend Developer | Java Developer
+### AI & Machine Learning Engineer | Python · Machine Learning · Generative AI · FastAPI
 
-I am a 2026 B.Tech Computer Science graduate interested in building practical software products that combine **machine learning, backend engineering, and full-stack development**.
+📍 Sangli, Maharashtra, India · [LinkedIn](https://linkedin.com/in/pranav-patil-ab2895357) · [Email](mailto:pranavpatil6717@gmail.com)
 
-I enjoy turning real-world problems into working applications—from designing REST APIs and data workflows to integrating ML models and building user-facing interfaces.
+I am a **2026 B.Tech Computer Science Engineering graduate** interested in building practical AI-powered applications. My project work combines machine-learning workflows, Python backend development, REST APIs, databases, and frontend integration.
 
-## What I work with
+I have collaborated in team-based development, including leading a **4-member team** on an AI-assisted agricultural analytics project. I am seeking entry-level opportunities in **AI/ML engineering, Python backend development, and Generative AI application development**.
 
-- **Languages:** Python, Java, SQL, JavaScript
-- **AI / Machine Learning:** scikit-learn, model training and inference, pandas, NumPy
-- **Backend:** FastAPI, Spring Boot, REST APIs, SQLAlchemy, Spring Data JPA, Hibernate
-- **Frontend:** React, Vite, Tailwind CSS, Axios
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Engineering:** Docker, Docker Compose, Git, Maven, Alembic
+## Technical skills
 
-## Featured project
+| Area | Skills |
+|---|---|
+| AI & Machine Learning | Machine Learning, scikit-learn, predictive modeling, Google Gemini AI integration, AI-assisted report generation |
+| Programming & CS | Python, Java 17+, SQL, JavaScript (ES6+), C, DSA, OOP, DBMS, Operating Systems, SOLID |
+| Backend & APIs | FastAPI, REST APIs, microservices, Spring Boot 4, Spring Security 7, Spring Data JPA, Hibernate, JWT, Maven |
+| Databases & DevOps | PostgreSQL, MySQL 8+, schema optimization, Docker, Git, GitHub, Postman, Linux |
+| Frontend | React 18+, Hooks, Axios, HTML5, CSS3, Bootstrap |
 
-### 🌱 [Fertilizer Optimizer](https://github.com/PranavPatil313/fertilizer-optimizer)
+## Featured projects
 
-An AI-assisted agriculture application designed to support crop and fertilizer planning using crop and soil inputs, machine-learning predictions, weather context, and recommendation logic.
+### 🌱 [AI-Powered Sustainable Agricultural Optimizer](https://github.com/PranavPatil313/fertilizer-optimizer)
 
-**Key engineering areas**
-- ML-powered NPK and yield prediction workflow
-- FastAPI backend with REST endpoints
-- React-based user interface
-- SQLAlchemy persistence and PostgreSQL support
-- Weather and optional Gemini AI integrations
-- Fertilizer blend calculations and PDF report generation
-- Docker-based development and deployment setup
+**Python · FastAPI · scikit-learn · Google Gemini AI · PostgreSQL · Docker**
 
-> This is a portfolio/development project. Model predictions and agronomic recommendations require validation against local soil tests and qualified agronomic guidance before practical use.
+An AI-assisted agriculture application that brings together crop and soil inputs, ML predictions, weather context, and fertilizer-planning workflows.
 
-## Current focus
+- Led a 4-member team working on a Dockerized FastAPI and PostgreSQL microservices-based agricultural analytics platform.
+- Integrated scikit-learn prediction workflows and soil-health scoring.
+- Integrated Google Gemini AI for farmer-oriented insights and report-generation workflows.
+- Built API and frontend workflows for recommendations and farm analytics.
 
-- Strengthening machine-learning fundamentals and model evaluation
-- Building reliable Python APIs and data-driven applications
-- Improving deployment, testing, and software engineering practices
-- Preparing for entry-level AI/ML Engineer and Python Backend Developer opportunities
+*Portfolio/development project: predictions and agronomic recommendations require validation against local soil tests and qualified agronomic guidance.*
 
-## Let's connect
+### 🧩 Full-Stack Employee & Department ERP System
 
-- **GitHub:** [@PranavPatil313](https://github.com/PranavPatil313)
-- **Projects:** [Explore my repositories](https://github.com/PranavPatil313?tab=repositories)
+**Java · Spring Boot · React · Spring Data JPA · Hibernate · Axios · MySQL · Maven**
 
-I’m open to opportunities where I can contribute, learn from experienced engineers, and build useful technology.
+- Developed organizational management workflows with client-server data exchange.
+- Integrated modular React components with Axios interceptors for asynchronous API communication.
+
+*The ERP project is listed from my resume; a public source repository is not currently linked.*
+
+## Internship experience
+
+**Web Developer Intern — YDCoders Team Project (2026)**
+
+- Collaborated in a 5-developer team to build responsive web pages using HTML, CSS, JavaScript, and Git.
+- Contributed to API integration, debugging, sprint reviews, unit testing, and Agile release activities.
+
+## Education
+
+**B.Tech — Computer Science Engineering**  
+Kolhapur Institute of Technology's College of Engineering, Kolhapur · 2021–2026  
+CGPA: **6.07 / 10.0**
+
+## Certifications
+
+- Java Programming Masterclass — Udemy
+- IIT Bombay Spoken Tutorial: C Programming, HTML, Git, and LaTeX
+
+## Current learning focus
+
+- Machine-learning evaluation, model quality, and reliable inference workflows
+- Python API engineering, testing, and deployment
+- Generative AI application integration
+- Strong software engineering foundations and problem solving
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/pranav-patil-ab2895357)
+- ✉️ [Email](mailto:pranavpatil6717@gmail.com)
+- 🧑‍💻 [GitHub repositories](https://github.com/PranavPatil313?tab=repositories)
+
+I’m open to entry-level opportunities where I can contribute to AI-powered products, backend services, and data-driven applications.
