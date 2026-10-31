@@ -1,48 +1,43 @@
-# Hi, I'm Pranav Patil 👋
+# Pranav Patil
 
-### AI & Machine Learning Engineer | Python · Machine Learning · Generative AI · FastAPI
+### AI/ML Engineer (Fresher) | Python | Machine Learning | Generative AI | FastAPI
 
 📍 Sangli, Maharashtra, India · [LinkedIn](https://linkedin.com/in/pranav-patil-ab2895357) · [Email](mailto:pranavpatil6717@gmail.com)
 
-I am a **2026 B.Tech Computer Science Engineering graduate** interested in building practical AI-powered applications. My project work combines machine-learning workflows, Python backend development, REST APIs, databases, and frontend integration.
+I’m a **2026 B.Tech Computer Science Engineering graduate** focused on building practical AI-powered applications with Python, machine learning, and backend engineering.
 
-I have collaborated in team-based development, including leading a **4-member team** on an AI-assisted agricultural analytics project. I am seeking entry-level opportunities in **AI/ML engineering, Python backend development, and Generative AI application development**.
+I led a **4-member team** on an AI-assisted agricultural analytics project, working across ML workflows, FastAPI services, PostgreSQL, Docker, and a React interface. I’m looking for entry-level **AI/ML Engineer, Python Developer, and Generative AI application** opportunities.
 
-## Technical skills
+## Core technical skills
 
-| Area | Skills |
-|---|---|
-| AI & Machine Learning | Machine Learning, scikit-learn, predictive modeling, Google Gemini AI integration, AI-assisted report generation |
-| Programming & CS | Python, Java 17+, SQL, JavaScript (ES6+), C, DSA, OOP, DBMS, Operating Systems, SOLID |
-| Backend & APIs | FastAPI, REST APIs, microservices, Spring Boot 4, Spring Security 7, Spring Data JPA, Hibernate, JWT, Maven |
-| Databases & DevOps | PostgreSQL, MySQL 8+, schema optimization, Docker, Git, GitHub, Postman, Linux |
-| Frontend | React 18+, Hooks, Axios, HTML5, CSS3, Bootstrap |
+- **AI/ML:** scikit-learn, predictive modelling, model training and inference, pandas, NumPy
+- **Generative AI:** Google Gemini API integration, AI-assisted explanations and reports
+- **Backend:** Python, FastAPI, REST APIs, Java, Spring Boot, Spring Data JPA, Hibernate
+- **Frontend:** React, JavaScript, HTML, CSS, Axios
+- **Data & infrastructure:** PostgreSQL, MySQL, SQL, Docker, Docker Compose, Git, Maven
 
-## Featured projects
+## Featured project
 
-### 🌱 [AI-Powered Sustainable Agricultural Optimizer](https://github.com/PranavPatil313/fertilizer-optimizer)
+### 🌱 [Fertilizer Optimizer](https://github.com/PranavPatil313/fertilizer-optimizer)
 
-**Python · FastAPI · scikit-learn · Google Gemini AI · PostgreSQL · Docker**
+**Python · FastAPI · scikit-learn · Gemini AI · PostgreSQL · React · Docker**
 
-An AI-assisted agriculture application that brings together crop and soil inputs, ML predictions, weather context, and fertilizer-planning workflows.
+An AI-assisted agricultural application that combines crop and soil inputs, machine-learning predictions, weather context, fertilizer-planning logic, and report generation.
 
-- Led a 4-member team working on a Dockerized FastAPI and PostgreSQL microservices-based agricultural analytics platform.
+- Led a 4-member team developing the agricultural analytics platform.
 - Integrated scikit-learn prediction workflows and soil-health scoring.
-- Integrated Google Gemini AI for farmer-oriented insights and report-generation workflows.
-- Built API and frontend workflows for recommendations and farm analytics.
+- Connected Google Gemini AI for farmer-oriented explanations and report workflows.
+- Built backend API and frontend flows for farm analytics and recommendations.
 
-*Portfolio/development project: predictions and agronomic recommendations require validation against local soil tests and qualified agronomic guidance.*
+**Engineering transparency:** this is a portfolio/development project. The repository documents current limitations; model quality has not been independently benchmarked, and agronomic outputs require validation against local soil tests and qualified agronomic guidance.
 
-### 🧩 Full-Stack Employee & Department ERP System
+## Additional project
 
-**Java · Spring Boot · React · Spring Data JPA · Hibernate · Axios · MySQL · Maven**
+**Employee & Department ERP** — Java, Spring Boot, React, Spring Data JPA, Hibernate, Axios, MySQL.
 
-- Developed organizational management workflows with client-server data exchange.
-- Integrated modular React components with Axios interceptors for asynchronous API communication.
+Built organizational management workflows and integrated React components with Axios-based API communication. The project is described in my resume; a public source repository is not currently linked.
 
-*The ERP project is listed from my resume; a public source repository is not currently linked.*
-
-## Internship experience
+## Experience
 
 **Web Developer Intern — YDCoders Team Project (2026)**
 
@@ -51,26 +46,19 @@ An AI-assisted agriculture application that brings together crop and soil inputs
 
 ## Education
 
-**B.Tech — Computer Science Engineering**  
+**B.Tech, Computer Science Engineering**  
 Kolhapur Institute of Technology's College of Engineering, Kolhapur · 2021–2026  
 CGPA: **6.07 / 10.0**
 
 ## Certifications
 
 - Java Programming Masterclass — Udemy
-- IIT Bombay Spoken Tutorial: C Programming, HTML, Git, and LaTeX
-
-## Current learning focus
-
-- Machine-learning evaluation, model quality, and reliable inference workflows
-- Python API engineering, testing, and deployment
-- Generative AI application integration
-- Strong software engineering foundations and problem solving
+- IIT Bombay Spoken Tutorial — C Programming, HTML, Git, LaTeX
 
 ## Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/pranav-patil-ab2895357)
-- ✉️ [Email](mailto:pranavpatil6717@gmail.com)
-- 🧑‍💻 [GitHub repositories](https://github.com/PranavPatil313?tab=repositories)
+- [LinkedIn](https://linkedin.com/in/pranav-patil-ab2895357)
+- [Email](mailto:pranavpatil6717@gmail.com)
+- [All repositories](https://github.com/PranavPatil313?tab=repositories)
 
-I’m open to entry-level opportunities where I can contribute to AI-powered products, backend services, and data-driven applications.
+*Open to entry-level AI/ML and Python backend opportunities.*
